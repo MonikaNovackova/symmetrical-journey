@@ -1,8 +1,11 @@
 import time
 
-print("Hi Mate. You can play with me.")
+print("Hi Mate. I am a game playing little AI.")
+
 time.sleep(0.8)
 print("I was supposed to know three games, but cos my creator is lazy, as of today its only two.")
+time.sleep(0.5)
+print("Come play with me..")
 i="I am a quiter"
 while (not i=="q"):
     time.sleep(0.8)
